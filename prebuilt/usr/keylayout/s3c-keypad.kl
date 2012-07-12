@@ -47,8 +47,8 @@ key 39    DPAD_RIGHT    WAKE_DROPPED
 key 40    ENTER         WAKE_DROPPED
 
 key 41    SHIFT_LEFT    WAKE_DROPPED
-key 42    AT            WAKE_DROPPED
-key 43    EQUALS        WAKE_DROPPED
+key 42    USER1         WAKE_DROPPED
+key 43    USER2         WAKE_DROPPED
 key 44    COMMA         WAKE_DROPPED
 key 45    SPACE         WAKE_DROPPED
 
@@ -67,10 +67,10 @@ key 55    MENU          WAKE_DROPPED
 key 46    CAMERA
 key 57    BACK          WAKE_DROPPED
 key 58    POWER         WAKE_DROPPED
-#key 59   SLIDE?        WAKE_DROPPED
+#key 59    SLIDE?        WAKE_DROPPED
 
 #Touch Key
-key 158   MENU          WAKE_DROPPED VIRTUAL
-key 139   HOME          WAKE_DROPPED VIRTUAL
-key 102   BACK          WAKE_DROPPED VIRTUAL
-key 107   SEARCH        WAKE_DROPPED VIRTUAL
+key 158    MENU         WAKE_DROPPED VIRTUAL
+key 139    HOME         WAKE_DROPPED VIRTUAL
+key 102    BACK         WAKE_DROPPED VIRTUAL
+key 107    SEARCH       WAKE_DROPPED VIRTUAL
